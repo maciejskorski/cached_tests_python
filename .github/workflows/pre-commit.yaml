@@ -2,9 +2,9 @@ name: pre-commit
 
 on:
   push:
-    branches: [experiments]
+    branches: [main]
   pull_request:
-    branches: [experiments, main]
+    branches: [main]
   workflow_dispatch:
 
 jobs:

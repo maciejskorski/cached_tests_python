@@ -2,7 +2,7 @@
 
 ## Summary
 
-The educational repo used to demonstrate how to automate (GitHub Actions) and optimize (with cache) Python tests on various files (notebooks .ipynb, scripts .py).
+The educational repo used to demonstrate how to automate and optimize (with GitHub Actions and cache) Python tests on various files (notebooks .ipynb, scripts .py).
 
 ## Task
 
